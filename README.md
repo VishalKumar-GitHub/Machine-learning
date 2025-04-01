@@ -1,4 +1,4 @@
-Machine Learning Roadmap: From Basics to Advanced 🚀
+Machine Learning Roadmap: From Basics to Advanced 
 
 This repository provides a structured journey through Machine Learning, covering essential techniques, algorithms, and model optimization. Whether you're a beginner or an experienced ML enthusiast, this guide will help you master key concepts.
 ![image](https://github.com/user-attachments/assets/37a000ce-2587-4c3e-8ec6-11f955311881)
@@ -28,13 +28,13 @@ Topics Covered:
 
 What’s Inside?
 
-🔹 Python code & Jupyter notebooks 🐍
+🔹 Python code & Jupyter notebooks 
 
-🔹 Hands-on examples with real datasets 📊
+🔹 Hands-on examples with real datasets 
 
-🔹 Performance evaluation & hyperparameter tuning ⚡
+🔹 Performance evaluation & hyperparameter tuning 
 
-🔹 Best practices for model selection 🏆
+🔹 Best practices for model selection 
 
 How to Use
 
